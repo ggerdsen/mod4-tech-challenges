@@ -20,32 +20,42 @@ Limit your online searches to core language documentation only.
 4. Submit by the due time as instructed in Zoom
 
 
-~~  Rewrite the question in your own words: ~~ 
+##  Rewrite the question in your own words: 
 
 
-## What assumptions will you make about this problem if you cannot ask any more clarifying questions? What are your reasons for making those assumptions?
+## ~~What assumptions will you make about this problem if you cannot ask any more clarifying questions? What are your reasons for making those assumptions?~~
+
+##  What assumptions can I make about the data type of the input?  Why would these assumptions be valid?    
 
 ###
 
 
 ## What are your initial thoughts about this problem? (high level design, 2-3 sentences)
 
+- I do not think anything other than basic math will be needed to solve this.
+- Once the two numbers are added, the result can be determined to be a palindrome the same way as a string would.
+
+
 
 ## How would you identify the elements of this problem?
 
-- [ ] Searching of Data
+- [x] Searching of Data
 - [ ] Sorting of Data
 - [ ] Pattern Recognition
 - [ ] Build/Navigate a Grid
-- [ ] Math
+- [x] Math
 - [ ] Language API knowledge
-- [ ] Optimization
+- [x] Optimization
 
 
 ## Which data structure(s) do you think you'll use? What pros/cons do you see with that choice?
 
+- Right now I am thinking an array to hold the input, while the result could be an integer 
+
 
 ## Write out a few lines of initial pseudocode: (mid-level design, NOT REAL CODE)
+
+
 
 ## Write out any implementation code OR link to repl
 

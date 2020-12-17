@@ -20,7 +20,7 @@ Limit your online searches to core language documentation only.
 4. Submit by the due time as instructed in Zoom
 
 
-## ~~ Rewrite the question in your own words: ~~
+~~ ## Rewrite the question in your own words: ~~
 
 
 ## What assumptions will you make about this problem if you cannot ask any more clarifying questions? What are your reasons for making those assumptions?
